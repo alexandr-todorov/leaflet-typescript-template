@@ -8,6 +8,7 @@
 	"author": "Ardian Shala",
 	"license": "MIT",
 	"dependencies": {
+		"@geoman-io/leaflet-geoman-free": "^2.14.2",
 		"leaflet": "1.9.3"
 	},
 	"devDependencies": {
